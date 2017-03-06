@@ -1,0 +1,4 @@
+#define min_width 6
+#define min_height 6
+static unsigned char min_bits[] = {
+   0x00, 0x3e, 0x22, 0x22, 0x22, 0x3e };
