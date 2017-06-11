@@ -1,30 +1,30 @@
 
 # Menu
-menu.border.color: #FFFFFF
-menu.border.width: 0
+menu.border.color: #1E232F
+menu.border.width: 3
 menu.title.bg: flat solid
-menu.title.bg.color: #1E232F
+menu.title.bg.color: #14171F
 menu.title.text.color: #20C5BF
 menu.title.text.justify: center
 
 menu.items.bg: flat solid
-menu.items.bg.color: #FFFFFF
-menu.items.text.color: #6A6B6C
+menu.items.bg.color: #16191C
+menu.items.text.color: #ffffff
 menu.items.disabled.text.color: #AAAEB2
 
 menu.items.active.bg: flat solid
-menu.items.active.bg.color: #009590
+menu.items.active.bg.color: #1E232F
 #menu.items.active.bg: flat diagonal gradient
 #menu.items.active.bg.color: #621712
 #menu.items.active.bg.colorTo: #249AB2
-menu.items.active.text.color: #ffffff
+menu.items.active.text.color: #00A8BD
 
 menu.separator.color: #1E232F
 menu.separator.width: 1
 menu.separator.padding.width: 4
 menu.separator.padding.height: 4
 
-# Windows 
+# Windows
 
 
 # Active window
@@ -32,12 +32,12 @@ menu.separator.padding.height: 4
 window.active.border.width: 0
 
 window.active.title.bg: flat solid
-window.active.title.bg.color: #1E232F
+window.active.title.bg.color: #17151D
 window.active.title.separator.color: #1E232F
 window.active.text.justify: center
 
 window.active.label.bg: parentrelative
-window.active.label.text.color: #ffffff
+window.active.label.text.color: #17151D
 
 window.active.handle.bg: flat solid
 window.active.handle.bg.color: #4FC0E8
@@ -46,7 +46,7 @@ window.active.grip.bg: flat solid
 window.active.grip.bg.color: #4FC0E8
 
 window.active.button.unpressed.bg: flat solid
-window.active.button.unpressed.bg.color: #1E232F
+window.active.button.unpressed.bg.color: #17151D
 window.active.button.unpressed.image.color: #009590
 
 window.active.button.pressed.bg: flat solid
@@ -83,7 +83,7 @@ window.inactive.title.separator.color: #ECEDEE
 window.inactive.text.justify: center
 
 window.inactive.label.bg: parentrelative
-window.inactive.label.text.color: #AAAEB2
+window.inactive.label.text.color: #03000B
 
 window.inactive.handle.bg: flat solid
 window.inactive.handle.bg.color: #F1F2F6
@@ -163,3 +163,4 @@ window.handle.width: 0
 window.client.padding.width: 0
 window.label.text.justify: center
 menu.overlap.x: -5
+menu.overlap.y: -5

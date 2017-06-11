@@ -1,0 +1,6 @@
+bar-blue
+bar-green
+bar-red
+bar-yellow
+show-apps
+show-apps-active

@@ -6,7 +6,7 @@ menu.border.color: #212129
 menu.border.width: 5
 window.active.border.color: #ffffff
 window.inactive.border.color: #eeeeee
-padding.height: 5
+padding.height: 7
 
 # Menu
 menu.items.active.bg: Solid Flat
@@ -52,8 +52,8 @@ window.active.button.toggled.bg.color: #222222
 window.active.button.toggled.bg.border.color: #222222
 window.active.button.toggled.image.color: #373737
 window.active.button.unpressed.bg: Solid Flat
-window.active.button.unpressed.bg.color: #202D40
-window.active.button.unpressed.bg.border.color: #222222
+window.active.button.unpressed.bg.color: #222222
+window.active.button.unpressed.bg.border.color: #191D24
 window.active.button.unpressed.image.color: #ffffff
 window.active.client.color: #222222
 window.active.grip.bg: Solid Flat
@@ -64,7 +64,7 @@ window.active.label.bg: Parentrelative
 window.active.label.text.color: #222222
 window.active.label.text.font: shadow=n
 window.active.title.bg: Solid Flat
-window.active.title.bg.color: #202D40
+window.active.title.bg.color: #222222
 
 # Window - Inactive
 window.client.padding.width: 0
@@ -83,8 +83,8 @@ window.inactive.button.pressed.bg.border.color: #202020
 window.inactive.button.pressed.image.color: #3d3d3d
 window.inactive.button.toggled.image.color: #3d3d3d
 window.inactive.button.unpressed.bg: Solid Flat
-window.inactive.button.unpressed.bg.color: #202D40
-window.inactive.button.unpressed.bg.border.color: #3d3d3d
+window.inactive.button.unpressed.bg.color: #191D24
+window.inactive.button.unpressed.bg.border.color: #191D24
 window.inactive.button.unpressed.image.color: #3d3d3d
 window.inactive.client.color: #222222
 window.inactive.grip.bg: Solid Flat
@@ -92,8 +92,8 @@ window.inactive.grip.bg.color: #222222
 window.inactive.handle.bg: Solid Flat
 window.inactive.handle.bg.color: #222222
 window.inactive.label.bg: Parentrelative
-window.inactive.label.text.color: #222222
+window.inactive.label.text.color: #191D24
 window.inactive.label.text.font: shadow=n
 window.inactive.title.bg: Solid Flat
-window.inactive.title.bg.color: #202D40
+window.inactive.title.bg.color: #191D24
 window.label.text.justify: Center
